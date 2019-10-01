@@ -1,3 +1,4 @@
+#Tagging the images to push to Azure container registry
 examplevotingapp_vote:dotnet-nanoserver-1809
 examplevotingapp_worker:dotnet-nanoserver-1809
 examplevotingapp_result:dotnet-nanoserver-1809
